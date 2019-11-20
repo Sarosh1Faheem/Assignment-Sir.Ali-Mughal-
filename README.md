@@ -2,7 +2,8 @@
 - Assignment.docx 1 and 2
 - Assignment.ipynb 1 and 2
  **BOTH Assignment has being Submitted**
-
+- Assignment 3.docx
+- Assignment 3.ipynb(along with calculator.py and maths.py[both are modules to work as a Calculator regarding **Q1**])
 
 ###Faculty
  - Sir Ali Mughal
