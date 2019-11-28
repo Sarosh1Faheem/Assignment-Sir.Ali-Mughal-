@@ -4,6 +4,8 @@
  **BOTH Assignment has being Submitted**
 - Assignment 3.docx
 - Assignment 3.ipynb(along with calculator.py and maths.py[both are modules to work as a Calculator regarding **Q1**])
+- Assignment 4.docx
+- Assignmmrnt 4.ipynb
 
 ###Faculty
  - Sir Ali Mughal
