@@ -6,6 +6,8 @@
 - Assignment 3.ipynb(along with calculator.py and maths.py[both are modules to work as a Calculator regarding **Q1**])
 - Assignment 4.docx
 - Assignmmrnt 4.ipynb
+- Assignment 5.docx
+- Assignment 5.ipynb
 
 ###Faculty
  - Sir Ali Mughal
