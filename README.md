@@ -5,9 +5,11 @@
 - Assignment 3.docx
 - Assignment 3.ipynb(along with calculator.py and maths.py[both are modules to work as a Calculator regarding **Q1**])
 - Assignment 4.docx
-- Assignmmrnt 4.ipynb
+- Assignmmrnt 4.ipynb (Submited)
 - Assignment 5.docx
-- Assignment 5.ipynb
+- Assignment 5.ipynb (submited)
+- Assignment 6.docx(Include SS of Question 5)
+- Assignment 6.ipynb(Question 5 Solved)
 
 ###Faculty
  - Sir Ali Mughal
